@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Ashvitta/OneDrive/Desktop/gitprograms/spam_or_not_spam/mlruns/602240703204806094/abbc427b31de46548526a950c37210df/artifacts
+end_time: 1782795219853
+entry_point_name: ''
+experiment_id: '602240703204806094'
+lifecycle_stage: active
+run_id: abbc427b31de46548526a950c37210df
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782795207670
+status: 3
+tags: []
+user_id: Ashvitta

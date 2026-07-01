@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Ashvitta/OneDrive/Desktop/gitprograms/spam_or_not_spam/mlruns/602240703204806094/models/m-cab9679f166a452c8d154177e30f8768/artifacts
+creation_timestamp: 1782795224160
+experiment_id: '602240703204806094'
+last_updated_timestamp: 1782795237812
+model_id: m-cab9679f166a452c8d154177e30f8768
+model_type: null
+name: model
+source_run_id: 55856b9e4d8a48ed95601474ca54eb1d
+status: 2
+status_message: null

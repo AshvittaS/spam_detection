@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Ashvitta/OneDrive/Desktop/gitprograms/spam_or_not_spam/mlruns/602240703204806094/models/m-c3960db083664395bfb3c0c697643dd5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.5.1
+model_id: m-c3960db083664395bfb3c0c697643dd5
+model_size_bytes: 124291
+model_uuid: m-c3960db083664395bfb3c0c697643dd5
+prompts: null
+run_id: abbc427b31de46548526a950c37210df
+utc_time_created: '2026-06-30 04:53:28.752661'

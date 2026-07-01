@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Ashvitta/OneDrive/Desktop/gitprograms/spam_or_not_spam/mlruns/602240703204806094/55856b9e4d8a48ed95601474ca54eb1d/artifacts
+end_time: 1782795237881
+entry_point_name: ''
+experiment_id: '602240703204806094'
+lifecycle_stage: active
+run_id: 55856b9e4d8a48ed95601474ca54eb1d
+run_name: AdaBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782795219881
+status: 3
+tags: []
+user_id: Ashvitta
