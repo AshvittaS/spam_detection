@@ -1,5 +1,5 @@
 # Spam or Not Spam
-
+Deployed link :[link](https://huggingface.co/spaces/Ashvitta07/Spam_or_not_Spam)
 This project is a complete spam detection application that turns SMS-style text into a real-time prediction experience. It combines machine learning, experiment tracking, and a simple web interface into one polished workflow.
 
 ## What makes this project unique
